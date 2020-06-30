@@ -1,0 +1,3 @@
+control-characters
+mdfind
+writable-property
